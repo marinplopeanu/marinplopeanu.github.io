@@ -3,6 +3,7 @@
 **Cuprins**:
 
 [Elemente avansate de Markdow](avansate.md)
+[Formule cu MathJax](mathjax.md)
 
 ***
 
