@@ -91,3 +91,8 @@ $$ \sum_{i=0}^n i^2 = \frac{(a+b) \times (b+c)}{6} $$
 
 $$ \int_0^1 x^4 dx $$
 
+# Organizare text
+
+> [!Note]
+> Aceasta este o nota.
+
