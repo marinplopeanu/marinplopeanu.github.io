@@ -49,7 +49,7 @@ $$ 10^{10} $$
 
 `\alpha` - alpha litera mica ($$\alpha$$)
 
-`\Alpha` - alpha litera mare ($$\Alpha$$)
+`\Gamma` - alpha litera mare ($$\Gamma$$)
 
 # Parantezele
 
