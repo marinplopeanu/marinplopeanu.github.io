@@ -31,13 +31,15 @@ window.mermaid.init(undefined, document.querySelectorAll('.language-mermaid'));
 
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
-</html>
-
-
 <script type="module">
   import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
   mermaid.initialize({startOnLoad: true});
 </script>
+
+</html>
+
+
+
 
 
 ![Text descriptiv Imagine](https://metricop.com/cdn/shop/articles/trimble-total-station.jpg?v=1677673954&width=1100)
