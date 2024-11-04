@@ -96,3 +96,7 @@ $$ \int_0^1 x^4 dx $$
 > [!Note]
 > Aceasta este o nota.
 
+```mermaid
+flowchart TD
+A --> B
+```
