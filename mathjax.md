@@ -99,5 +99,5 @@ $$ \int_0^1 x^4 dx $$
 
 ```mermaid
 flowchart TD
-A <--|text| B
+A --> B
 ```
