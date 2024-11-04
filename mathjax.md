@@ -1,5 +1,6 @@
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/10.6.1/mermaid.min.js"></script>
 
 
 ![Text descriptiv Imagine](https://metricop.com/cdn/shop/articles/trimble-total-station.jpg?v=1677673954&width=1100)
@@ -98,5 +99,5 @@ $$ \int_0^1 x^4 dx $$
 
 ```mermaid
 flowchart TD
-A --> B
+A <--|text| B
 ```
