@@ -3,9 +3,10 @@
 
 ![Total Station](https://metricop.com/cdn/shop/articles/trimble-total-station.jpg?v=1677673954&width=1100)
 
-[Homepage](index.md)
+[Homepage, Cuprins Site](index.md)
 
-# Cuprins
+# Cuprins pagina
+
 - [Capitole, subcapitole si sectiuni](#capitole-subcapitole-si-sectiuni)
     - [Sinteza](#sinteza)
     - [Nivelul 1](#nivelul-1-capitole)
@@ -206,6 +207,6 @@ Linia1<br>Linia2
 
 <p> </p>
 
-Link [Up Page](#cuprins)
+Link: [Up Page => Cuprins Pagina](#cuprins)
 
-Link [Homepage](index)
+Link: [Homepage](index)
