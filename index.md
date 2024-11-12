@@ -8,7 +8,7 @@
 
 <!-- [Markdown 2: Elemente avansate de Markdown (demo 'md' page)](avansate.md) -->
 
-[Markdown 3: Elemente de Markdown - completare](/markdown3.md)
+[Markdown 3: Inserare cod de programare](/markdown3.md)
 
 [Markdown 4: Crearea legaturilor Markdown](/markdown4.md)
 
