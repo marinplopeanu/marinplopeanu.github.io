@@ -6,7 +6,15 @@
 
 <summary>Elemente de Markdown</summary>
 
-<a href="/markdown1.md"> Markdown 1: Capitole, subcapitole, sectiuni si paragrafe </a>
+<br>
+
+<a href="/markdown1"> Markdown 1: Capitole, subcapitole, sectiuni si paragrafe </a>
+
+<a href="markdown2"> Markdown 2: Formatarea textului cu Markdown</a>
+
+<a href="markdown3"> Markdown 3: Inserare cod de programare</a>
+
+<a href="markdown4"> Markdown 4: Crearea legaturilor Markdown</a>
 
 <!-- [Markdown 1: Capitole, subcapitole, sectiuni si paragrafe](markdown1.md)
 
