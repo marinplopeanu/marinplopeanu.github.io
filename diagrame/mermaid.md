@@ -35,4 +35,4 @@ Vezi [Mermaid Live Docu](https://mermaid.js.org/intro/getting-started.html)
 
 [Up](#cuprins-pagina)
 
-[Homepage](index)
+[Homepage](/diagrame/index)
