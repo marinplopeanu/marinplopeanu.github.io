@@ -1,7 +1,9 @@
 [Homepage](index.md)
 
-# Pagina 2
+# Pagina 2 Markdown (demo)
 
-## Avansate Markdown
+## Demo pagina Markdown
 
-Text text text
+Aceasta pagina a fost creata ca demo pentru 'legarea' paginilor (linkuri dinspre si catre 'homepage').
+
+[Homepage](index.md)
