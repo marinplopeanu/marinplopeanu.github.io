@@ -37,6 +37,8 @@ Facultatea de <strong>Geodezie</strong>
 
 Facultatea de <strong>Geodezie</strong>
 
+***
+
 ## Italic (inclinat)
 
 **Cod Markdown:**
@@ -69,6 +71,7 @@ Facultatea de <em>Geodezie</em>
 
 Facultatea de <em>Geodezie</em>
 
+***
 
 ## Bold + Italic (ingrosat + inclinat)
 
@@ -117,6 +120,8 @@ Facultatea de <strong><em>Geodezie</em></strong>
 
 Facultatea de <strong><em>Geodezie</em></strong>
 
+***
+
 ## Strikethrough (taiat)
 
 ### Cod Markdown:
@@ -146,6 +151,7 @@ Facultatea de Geodezie, specializarea MTC (<strike>Instalatii</strike>)
 ```
 Facultatea de Geodezie, specializarea MTC (<strike>Instalatii</strike>)
 
+***
 
 ## Text suprascris (superscript)
 
@@ -160,6 +166,8 @@ Facultatea de Geodezie, specializarea <sup>MTC</sup>
 
 Facultatea de Geodezie, specializarea <sup>MTC</sup>
 
+***
+
 ## Text subscris (subscript)
 
 ### Cod Markdown:
@@ -173,6 +181,8 @@ Facultatea de Geodezie, specializarea <sub>MTC</sub>
 
 Facultatea de Geodezie, specializarea <sub>MTC</sub>
 
+***
+
 ## Text subliniat (underlined)
 
 ### Cod Markdown:
@@ -185,6 +195,8 @@ Facultatea de Geodezie, specializarea <u>MTC</u>
 ```
 
 Facultatea de Geodezie, specializarea <u>MTC</u>
+
+***
 
 ## Text evidentiat (highlighted)
 
