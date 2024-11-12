@@ -57,6 +57,7 @@ b = 3
 Acesta este un text ne-evidentiat.
 
 **HTML:**
+
 <blockquote>
 Acesta este un text evidentiat
 </blockquote>
