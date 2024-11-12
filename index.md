@@ -2,7 +2,7 @@
 
 # Harta site:
 
-[Markdown 1: Crearea legaturilor Markdown](index.md)
+Markdown 1: Crearea legaturilor Markdown
 
 [Markdown 2: Formatarea textului cu Markdown](markdown2.md)
 

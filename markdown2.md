@@ -134,6 +134,19 @@ Facultatea de Geodezie, specializarea MTC (<del>Instalatii</del>)
 
 Facultatea de Geodezie, specializarea MTC (<del>Instalatii</del>)
 
+**Versiuni mai vechi de HTML:**
+```html
+Facultatea de Geodezie, specializarea MTC (<s>Instalatii</s>)
+```
+
+Facultatea de Geodezie, specializarea MTC (<s>Instalatii</s>)
+
+```html
+Facultatea de Geodezie, specializarea MTC (<strike>Instalatii</strike>)
+```
+Facultatea de Geodezie, specializarea MTC (<strike>Instalatii</strike>)
+
+
 ## Text suprascris (superscript)
 
 ### Cod Markdown:
@@ -159,3 +172,35 @@ Facultatea de Geodezie, specializarea <sub>MTC</sub>
 ```
 
 Facultatea de Geodezie, specializarea <sub>MTC</sub>
+
+## Text subliniat (underlined)
+
+### Cod Markdown:
+
+> Nu exista
+
+### Cod HTML:
+```html
+Facultatea de Geodezie, specializarea <u>MTC</u>
+```
+
+Facultatea de Geodezie, specializarea <u>MTC</u>
+
+## Text evidentiat (highlighted)
+
+### Cod Markdown:
+
+>Doar in unele versiuni de Markdown:
+
+```markdown
+Facultatea de Geodezie, specializarea ==MTC==
+```
+
+Facultatea de Geodezie, specializarea ==MTC==
+
+### Cod HTML:
+```html
+Facultatea de Geodezie, specializarea <mark>MTC</mark>
+```
+
+Facultatea de Geodezie, specializarea <mark>MTC</mark>
