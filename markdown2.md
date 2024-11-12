@@ -6,7 +6,7 @@
 [Homepage](index.md)
 
 
-# Elemente de Markdown - P2
+# Elemente de Markdown - Partea a doua
 
 
 ## Inserarea codului de programare in Markdown si HTML
@@ -138,13 +138,28 @@ Acesta este un text evidentiat cu HTML.
 
 <hr size=2em>
 
-**Tag in pereche (cu continut), cu eticheta de deschidere si de inchidere**
+## Taguri HTML
+
+**Tag HTML in pereche (cu continut), cu eticheta de deschidere si de inchidere:**
 
 ```html
-<p>Acesta este un paragraf</p>
+<p>Acesta este un paragraf.</p>
 ```
 
-<p>Acesta este un paragraf</p>
+**HTML renderizat**:
+
+<p>Acesta este un paragraf.</p>
+
+**Tag HTML auto-inchis (fara continut)**
+
+```html
+<hr>
+etc.
+```
+
+**HTML renderizat**:
+
+<hr>
 
 ## Echivalentul unui link Markdown in HTML
 
@@ -167,4 +182,6 @@ Acesta este un text evidentiat cu HTML.
 
 <a href="https://google.com"> Link HTML catre Google </a>
 
-[Homepage](index.md)
+***
+
+Link [Homepage](index.md)
