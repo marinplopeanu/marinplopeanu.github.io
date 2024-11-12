@@ -9,7 +9,7 @@
 <p> </p>
 
 <a href="/markdown1"> Markdown 1: Capitole, subcapitole, sectiuni si paragrafe </a>
-<p> </p>
+<br>
 
 <a href="markdown2"> Markdown 2: Formatarea textului cu Markdown</a>
 <br>
@@ -18,7 +18,8 @@
 <br>
 
 <a href="markdown4"> Markdown 4: Crearea legaturilor Markdown</a>
-<br>
+
+<p> </p>
 
 <!-- [Markdown 1: Capitole, subcapitole, sectiuni si paragrafe](markdown1.md)
 
@@ -40,12 +41,15 @@
 
 <summary> Elemente de TeX si MathJax </summary>
 
+<p> </p>
 
 <a href="mathjax"> MathJax 1: Formule cu TeX si MathJax </a>
 <br>
 
 <a href="mathjax2"> MathJax 2: Matrice si ecuatii cu TeX si MathJax </a>
 <br>
+
+<p> </p>
 
 <!-- [MathJax 1: Formule cu TeX si MathJax](mathjax.md)
 
@@ -58,10 +62,14 @@
 
 <summary> Diagrame Mermaid </summary>
 
+<p> </p>
+
 <a href="/diagrame/mermaid"> Diagrame Mermaid </a>
 <br>
 
 <!-- [Diagrame Mermaid](/diagrame/mermaid.md) -->
+
+<p> </p>
 
 </details>
 
