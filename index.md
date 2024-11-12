@@ -6,7 +6,6 @@
 
 <summary>Elemente de Markdown</summary>
 
-<br>
 
 <a href="/markdown1"> Markdown 1: Capitole, subcapitole, sectiuni si paragrafe </a>
 <br>
@@ -40,7 +39,6 @@
 
 <summary> Elemente de TeX si MathJax </summary>
 
-<br>
 
 <a href="mathjax"> MathJax 1: Formule cu TeX si MathJax </a>
 <br>
@@ -58,8 +56,6 @@
 <details>
 
 <summary> Diagrame Mermaid </summary>
-
-<br>
 
 <a href="/diagrame/mermaid"> Diagrame Mermaid </a>
 <br>
