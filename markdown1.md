@@ -5,6 +5,8 @@
 
 [Homepage, Cuprins Site](index.md)
 
+***
+
 # Cuprins pagina
 
 - [Capitole, subcapitole si sectiuni](#capitole-subcapitole-si-sectiuni)
@@ -16,6 +18,8 @@
 - [Linii](#linii)
     - [Intreruperile de linii](#intreruperile-de-linie-line-break)
     - [Liniile orizontale](#inserarea-liniilor-orizontale-horizontal-rule)
+
+***
 
 # Capitole, subcapitole si sectiuni
 
