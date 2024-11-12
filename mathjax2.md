@@ -4,9 +4,11 @@
 
 [Homepage](index.md)
 
-# Scrierea matricelor
+# Scrierea matricelor `TeX` cu ajutorul `MathJax`
 
-```LaTeX
+**Cod TeX:**
+
+```latex
 $$
 A=
 \begin{Vmatrix}
@@ -15,6 +17,7 @@ a_{21} & a_{22} & a_{23} \\
 \end{Vmatrix}
 $$
 ```
+**Cod TeX renderizat:**
 
 $$
 A=
@@ -31,7 +34,53 @@ $$
 - `{vmatrix}`
 - `{Vmatrix}`
 
+*Alte exemple:*
+
+**Cod TeX:**
+
+```latex
+$$
+A=
+\begin{pmatrix}
+a_{11} & a_{12} & a_{13} \\
+a_{21} & a_{22} & a_{23} \\
+\end{pmatrix}
+$$
+```
+**Cod TeX renderizat:**
+
+$$
+A=
+\begin{pmatrix}
+a_{11} & a_{12} & a_{13} \\
+a_{21} & a_{22} & a_{23} \\
+\end{pmatrix}
+$$
+
+**Cod TeX:**
+
+```latex
+$$
+A=
+\begin{bmatrix}
+a_{11} & a_{12} & a_{13} \\
+a_{21} & a_{22} & a_{23} \\
+\end{bmatrix}
+$$
+```
+**Cod TeX renderizat:**
+
+$$
+A=
+\begin{bmatrix}
+a_{11} & a_{12} & a_{13} \\
+a_{21} & a_{22} & a_{23} \\
+\end{bmatrix}
+$$
+
 # Scrierea sistemelor de ecuatii
+
+**Cod TeX:**
 
 ```LaTeX
 $$
@@ -41,6 +90,7 @@ g(x) &= ax^2 + bx + c
 \end{align}
 $$
 ```
+**Cod TeX renderizat:**
 
 $$
 \begin{align}
@@ -49,5 +99,23 @@ g(x) &= ax^2 + bx + c
 \end{align}
 $$
 
+**Cod TeX:**
+
+```latex
+$$
+\begin{cases}
+f(x) &= ax^2 \\
+g(x) &= ax^2 + bx + c
+\end{cases}
+$$
+```
+**Cod TeX renderizat:**
+
+$$
+\begin{cases}
+f(x) &= ax^2 \\
+g(x) &= ax^2 + bx + c
+\end{cases}
+$$
 
 
