@@ -1,16 +1,16 @@
-![Text descriptiv Imagine](https://metricop.com/cdn/shop/articles/trimble-total-station.jpg?v=1677673954&width=1100)
+![Total Station Demo](https://metricop.com/cdn/shop/articles/trimble-total-station.jpg?v=1677673954&width=1100)
 
 # Cuprins:
 
-[Elemente avansate de Markdow](avansate.md)
+[Elemente avansate de Markdown (demo 'md' page)](avansate.md)
 
-[Formule cu MathJax](mathjax.md)
+[Markdown 2: Completare Markdown](/markdown2.md)
 
-[Matrice si ecuatii cu MathJax](mathjax2.md)
+[MathJax 1: Formule cu TeX si MathJax](mathjax.md)
+
+[MathJax 2: Matrice si ecuatii cu TeX si MathJax](mathjax2.md)
 
 [Diagrame Mermaid](/diagrame/mermaid.md)
-
-[Completare Markdown](/markdown2.md)
 
 ***
 
