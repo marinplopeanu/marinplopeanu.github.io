@@ -8,7 +8,6 @@
 
 # Elemente de Markdown - Partea a doua
 
-
 ## Inserarea codului de programare in Markdown si HTML
 
 ### Cod 'in linie'

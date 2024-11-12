@@ -2,13 +2,15 @@
 
 # Harta site:
 
-Markdown 1: Crearea legaturilor Markdown
+Markdown 1: Capitole, subcapitole, sectiuni si paragrafe
 
 [Markdown 2: Formatarea textului cu Markdown](markdown2.md)
 
 <!-- [Markdown 2: Elemente avansate de Markdown (demo 'md' page)](avansate.md) -->
 
 [Markdown 3: Elemente de Markdown - completare](/markdown3.md)
+
+[Markdown 4: Crearea legaturilor Markdown](/markdown4.md)
 
 [MathJax 1: Formule cu TeX si MathJax](mathjax.md)
 
@@ -18,84 +20,136 @@ Markdown 1: Crearea legaturilor Markdown
 
 ***
 
-# Implementarea legaturilor (linku-urilor) in Markdown
+# Paragrafele
 
-## Implementarea legaturilor catre alte fisiere
 
-Fisierele accesate prin link-uri pot fi:
-1. Gazduite pe *alte servere* (de ex.: accesarea unui alt site)
-2. Gazduite pe *serverul site-ului curent*.
+### Sintaxa Markdown:
 
-De asemenea, prin aceste linkuri se pot accesa si sectiuni din pagina curenta sau sectiuni din alte pagini ale aceluiasi site.
-
-## Sintaxa unui link Markdown 
-
-Tipuri de linkuri in Markdown:
-1. Linkuri *clasice* (normale)
-2. Linkuri *referentiate*
-
-### Linkurile *clasice*
-
-**Markdown (sintaxa):**
+> Paragrafele se diferentiaza printr-un rand gol
 
 ```markdown
-[Link google.com](https://google.com/)
-[Link google.com cu text alternativ](https://google.com/ "Accesare site Google")
+Paragraf 1
+
+Paragraf 1
 ```
 
-**Markdown renderizat:**
+### Markdown renderizat:
 
-[Link google.com](https://google.com/)
+Paragraf 1
 
-[Link google.com cu text alternativ](https://google.com/ "Accesare site Google")
+Paragraf 1
+
+### Sintaxa HTML:
+
+```html
+<p>Paragraf 1</p>
+
+<p>Paragraf 2</p>
+```
+### HTML renderizat:
+
+<p>Paragraf 1</p>
+
+<p>Paragraf 2</p>
+
+# Capitole
+
+### Sintaxa Markdown:
+
+```markdown
+# Capitolul 1
+
+In acest capitol ...
+```
+
+### Markdown renderizat:
+
+# Capitolul 1
+
+In acest capitol ...
 
 ***
 
-### Linkurile referentiate
+### Sintaxa HTML:
 
-**Markdown (sintaxa):**
+```html
+<h1>Capitolul 1</h1>
 
-```markdown
-Iata un [link][link1] catre site-ul Google.
-
-[link1]: https://google.com/
+<p>In acest capitol ...</p>
 ```
 
-**Markdown renderizat:**
+### HTML renderizat:
 
-Iata un [link][link1] catre site-ul Google.
+<h1>Capitolul 1</h1>
 
-[link1]: https://google.com/
+<p>In acest capitol ...</p>
 
 ***
 
-### Varianta prescurtata a linkurilor referentiate:
+# Sub-Capitole
 
-**Markdown (sintaxa):**
+### Sintaxa Markdown:
 
 ```markdown
-Iata un link [important] catre site-ul Google.
+## Capitolul 1.1
 
-[important]: https://google.com/
+In acest sub-capitol ...
 ```
 
-**Markdown renderizat:**
+### Markdown renderizat:
 
-Iata un link [important] catre site-ul Google.
+## Capitolul 1.1
 
-[important]: https://google.com/
+In acest sub-capitol ...
 
 ***
 
-### Linkuri catre imagini (inserarea imaginilor)
+### Sintaxa HTML:
 
-**Markdown (sintaxa):**
+```html
+<h2>Capitolul 1.1</h2>
 
-```markdown
-![Totalstation](https://metricop.com/cdn/shop/articles/trimble-total-station.jpg?v=1677673954&width=1100)
+<p>In acest sub-capitol ...</p>
 ```
 
-**Markdown renderizat:**
+### HTML renderizat:
 
-![Totalstation](https://metricop.com/cdn/shop/articles/trimble-total-station.jpg?v=1677673954&width=1100)
+<h2>Capitolul 1.1</h2>
 
+<p>In acest sub-capitol ...</p>
+
+***
+
+# Sectiuni
+
+### Sintaxa Markdown:
+
+```markdown
+### Sectiunea 1.1.1
+
+In aceasta sectiune ...
+```
+
+### Markdown renderizat:
+
+### Sectiunea 1.1.1
+
+In aceasta sectiune ...
+
+***
+
+### Sintaxa HTML:
+
+```html
+<h3>Sectiunea 1.1.1</h3>
+
+<p>In aceasta sectiune ...</p>
+```
+
+### HTML renderizat:
+
+<h3>Sectiunea 1.1.1</h3>
+
+<p>In aceasta sectiune ...</p>
+
+***
