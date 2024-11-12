@@ -6,9 +6,10 @@
 
 <summary>Elemente de Markdown</summary>
 
+<p> </p>
 
 <a href="/markdown1"> Markdown 1: Capitole, subcapitole, sectiuni si paragrafe </a>
-<br>
+<p> </p>
 
 <a href="markdown2"> Markdown 2: Formatarea textului cu Markdown</a>
 <br>
