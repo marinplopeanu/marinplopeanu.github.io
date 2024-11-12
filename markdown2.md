@@ -54,6 +54,8 @@ Facultatea de <strong>Geodezie</strong>
 
 Facultatea de <strong>Geodezie</strong>
 
+[Up](#cuprins-pagina)
+
 ***
 
 ## Italic (inclinat)
@@ -87,6 +89,8 @@ Facultatea de <em>Geodezie</em>
 ```
 
 Facultatea de <em>Geodezie</em>
+
+[Up](#cuprins-pagina)
 
 ***
 
@@ -137,6 +141,8 @@ Facultatea de <strong><em>Geodezie</em></strong>
 
 Facultatea de <strong><em>Geodezie</em></strong>
 
+[Up](#cuprins-pagina)
+
 ***
 
 ## Strikethrough (taiat)
@@ -168,6 +174,8 @@ Facultatea de Geodezie, specializarea MTC (<strike>Instalatii</strike>)
 ```
 Facultatea de Geodezie, specializarea MTC (<strike>Instalatii</strike>)
 
+[Up](#cuprins-pagina)
+
 ***
 
 ## Text suprascris (superscript)
@@ -182,6 +190,8 @@ Facultatea de Geodezie, specializarea <sup>MTC</sup>
 ```
 
 Facultatea de Geodezie, specializarea <sup>MTC</sup>
+
+[Up](#cuprins-pagina)
 
 ***
 
@@ -198,6 +208,8 @@ Facultatea de Geodezie, specializarea <sub>MTC</sub>
 
 Facultatea de Geodezie, specializarea <sub>MTC</sub>
 
+[Up](#cuprins-pagina)
+
 ***
 
 ## Text subliniat (underlined)
@@ -212,6 +224,8 @@ Facultatea de Geodezie, specializarea <u>MTC</u>
 ```
 
 Facultatea de Geodezie, specializarea <u>MTC</u>
+
+[Up](#cuprins-pagina)
 
 ***
 
@@ -233,3 +247,9 @@ Facultatea de Geodezie, specializarea <mark>MTC</mark>
 ```
 
 Facultatea de Geodezie, specializarea <mark>MTC</mark>
+
+***
+
+Link: [Up Page => Cuprins Pagina](#cuprins)
+
+Link: [Homepage](index)
