@@ -200,3 +200,9 @@ Linia1<br>Linia2
 #### HTML renderizat:
 
 <hr>
+
+<p> </p>
+
+Link [Up Page](#cuprins)
+
+Link [Homepage](index)
