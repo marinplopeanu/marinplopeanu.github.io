@@ -19,7 +19,7 @@
 
 # Scrierea matricelor `TeX` cu ajutorul `MathJax`
 
-    **Cod TeX:**
+**Cod TeX:**
 
 ```latex
 $$
