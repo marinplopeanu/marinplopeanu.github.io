@@ -5,38 +5,40 @@
 
 [Homepage](index.md)
 
-# Paragrafele
+# Cuprins
+- [Capitole, subcapitole si sectiuni](#capitole-subcapitole-si-sectiuni)
+    - [Sinteza](#sinteza)
+- [Paragrafe](#paragrafe)
+- [Linii](#linii)
+    - [Intreruperile de linii](#intreruperile-de-linie-line-break)
+    - [Liniile orizontale](#inserarea-liniilor-orizontale-horizontal-rule)
 
+# Capitole, subcapitole si sectiuni
 
-### Sintaxa Markdown:
+## Sinteza
 
-> Paragrafele se diferentiaza printr-un rand gol
+### Sintaxa Markdown
 
 ```markdown
-Paragraf 1
-
-Paragraf 1
+# Capitol
+## Subcapitol
+### Subsubcapitol
+#### Sectiune
+...
+###### Sectiune
 ```
 
-### Markdown renderizat:
-
-Paragraf 1
-
-Paragraf 1
-
-### Sintaxa HTML:
+### Sintaxa HTML
 
 ```html
-<p>Paragraf 1</p>
-<p>Paragraf 2</p>
+<h1>Capitol</h1>
+<h2>Subcapitol</h2>
+<h3>SubsubCapitol</h3>
+...
+<h6>Sectiune</h6>
 ```
-### HTML renderizat:
 
-<p>Paragraf 1</p>
-
-<p>Paragraf 2</p>
-
-# Capitole
+## Nivelul 1: Capitole
 
 ### Sintaxa Markdown:
 
@@ -69,7 +71,7 @@ In acest capitol ...
 
 ***
 
-# Sub-Capitole
+# Nivelul 2: Sub-Capitole
 
 ### Sintaxa Markdown:
 
@@ -102,7 +104,7 @@ In acest sub-capitol ...
 
 ***
 
-# Sectiuni
+# Nivelul 3-6: Subsubcapitole si sectiuni
 
 ### Sintaxa Markdown:
 
@@ -134,3 +136,67 @@ In aceasta sectiune ...
 <p>In aceasta sectiune ...</p>
 
 ***
+
+# Paragrafe
+
+### Sintaxa Markdown:
+
+> Nota: Paragrafele se diferentiaza printr-un rand gol
+
+```markdown
+Paragraf 1
+
+Paragraf 1
+```
+
+### Markdown renderizat:
+
+Paragraf 1
+
+Paragraf 1
+
+### Sintaxa HTML:
+
+```html
+<p>Paragraf 1</p>
+<p>Paragraf 2</p>
+```
+### HTML renderizat:
+
+<p>Paragraf 1</p>
+<p>Paragraf 2</p>
+
+***
+
+# Linii
+
+## Intreruperile de linie (line break)
+
+#### Sintaxa HTML
+
+```html
+Linia1<br>Linia2
+```
+### HTML renderizat:
+
+Linia1<br>Linia2
+
+## Inserarea liniilor orizontale (horizontal rule)
+
+#### Sintaxa Markdown
+
+```markdown
+*** (sau ___ sau ---)
+```
+#### Markdown renderizat:
+
+***
+
+#### Sintaxa HTML
+
+```html
+<hr>
+```
+#### HTML renderizat:
+
+<hr>

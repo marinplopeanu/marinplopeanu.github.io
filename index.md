@@ -8,7 +8,7 @@
 
 <p> </p>
 
-<a href="/markdown1"> Markdown 1: Capitole, subcapitole, sectiuni si paragrafe </a>
+<a href="/markdown1"> Markdown 1: Capitole, subcapitole, sectiuni, linii si paragrafe </a>
 <br>
 
 <a href="markdown2"> Markdown 2: Formatarea textului cu Markdown</a>
