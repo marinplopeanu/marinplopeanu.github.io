@@ -12,8 +12,10 @@
     - [Posibilitati de scriere matrice](#posibilitati-de-scriere-matrice)
     - [Exemple](#alte-exemple)
 - [Scrierea sistemelor de ecuatii](#scrierea-sistemelor-de-ecuatii)
-    - [Varianta 1](#varianta-1)
-    - [Varianta 2](#varianta-2)
+    - [Sistem de cuatii cu numerotare automata](#sistem-de-cuatii-cu-numerotare-automata)
+    - [Sistem de ecuatii, fara numerotare](#sistem-de-ecuatii-fara-numerotare)
+    - [Sistem de ecuatii numerotat manual](#sistem-de-ecuatii-numerotat-manual)
+    - [Sistem de ecuatii cu formule numerotate manual](#sistem-de-ecuatii-cu-formule-numerotate-manual)
 
 ***
 
@@ -103,7 +105,7 @@ $$
 
 **Cod TeX:**
 
-## Varianta 1
+## Sistem de cuatii cu numerotare automata
 
 ```LaTeX
 $$
@@ -122,7 +124,7 @@ g(x) &= ax^2 + bx + c
 \end{align}
 $$
 
-## Varianta 2
+## Sistem de ecuatii, fara numerotare
 
 **Cod TeX:**
 
@@ -141,6 +143,45 @@ $$
 f(x) &= ax^2 \\
 g(x) &= ax^2 + bx + c
 \end{cases}
+$$
+
+## Sistem de ecuatii numerotat manual
+
+```latex
+$$
+\begin{cases}
+f(x) &= ax^2 \\
+g(x) &= ax^2 + bx + c
+\end{cases}
+\tag{eq. 1}
+$$
+```
+**Cod TeX renderizat:**
+
+$$
+\begin{cases}
+f(x) &= ax^2 \\
+g(x) &= ax^2 + bx + c
+\end{cases}
+\tag{eq. 10}
+$$
+
+## Sistem de ecuatii cu formule numerotate manual
+
+```latex
+$$
+\begin{align}
+f(x) &= ax^2 \tag{eq. 2} \\
+g(x) &= ax^2 + bx + c \tag{eq. 3}
+\end{align}
+$$
+```
+**Cod TeX renderizat:**
+$$
+\begin{align}
+f(x) &= ax^2 \tag{eq. 21} \\
+g(x) &= ax^2 + bx + c \tag{eq. 22}
+\end{align}
 $$
 
 ***
