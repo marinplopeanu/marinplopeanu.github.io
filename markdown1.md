@@ -45,6 +45,7 @@
 ...
 <h6>Sectiune</h6>
 ```
+[Up](#cuprins-pagina)
 
 ## Nivelul 1: Capitole
 
@@ -76,6 +77,8 @@ In acest capitol ...
 <h1>Capitolul 1</h1>
 
 <p>In acest capitol ...</p>
+
+[Up](#cuprins-pagina)
 
 ***
 
@@ -110,6 +113,8 @@ In acest sub-capitol ...
 
 <p>In acest sub-capitol ...</p>
 
+[Up](#cuprins-pagina)
+
 ***
 
 # Nivelul 3-6: Subsubcapitole si sectiuni
@@ -143,6 +148,8 @@ In aceasta sectiune ...
 
 <p>In aceasta sectiune ...</p>
 
+[Up](#cuprins-pagina)
+
 ***
 
 # Paragrafe
@@ -173,6 +180,8 @@ Paragraf 1
 
 <p>Paragraf 1</p>
 <p>Paragraf 2</p>
+
+[Up](#cuprins-pagina)
 
 ***
 
