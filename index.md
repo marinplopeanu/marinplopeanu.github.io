@@ -29,29 +29,33 @@
 
 </details>
 
-<br>
 
 <details> 
 
-<br>
-
 <summary> Elemente de TeX si MathJax </summary>
 
+<br>
 
-[MathJax 1: Formule cu TeX si MathJax](mathjax.md)
+<a href="mathjax"> MathJax 1: Formule cu TeX si MathJax </a>
 
-[MathJax 2: Matrice si ecuatii cu TeX si MathJax](mathjax2.md)
+<a href="mathjax2"> MathJax 2: Matrice si ecuatii cu TeX si MathJax </a>
+
+<!-- [MathJax 1: Formule cu TeX si MathJax](mathjax.md)
+
+[MathJax 2: Matrice si ecuatii cu TeX si MathJax](mathjax2.md) -->
 
 </details>
 
-<br>
 
 <details>
 
 <summary> Diagrame Mermaid </summary>
 
+<br>
 
-[Diagrame Mermaid](/diagrame/mermaid.md)
+<a href="mermaid"> Diagrame Mermaid </a>
+
+<!-- [Diagrame Mermaid](/diagrame/mermaid.md) -->
 
 </details>
 
