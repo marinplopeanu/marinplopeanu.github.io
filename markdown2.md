@@ -167,11 +167,4 @@ Acesta este un text evidentiat cu HTML.
 
 <a href="https://google.com"> Link HTML catre Google </a>
 
-<!-- ```python
-
-```
-
-![alt](https://) -->
-
-
-
+[Homepage](index.md)
