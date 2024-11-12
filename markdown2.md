@@ -120,7 +120,9 @@ Acesta este un text evidentiat cu HTML.
 <img src=images/mp.jpg width="200px" border=10px align=right>
 ```
 
-<img src=images/mp.jpg width="200px" border=10px>
+**HTML renderizat:**
+
+<img src="images/mp.jpg" width="200px" border=10px>
 
 **Linie orizontala Markdown:**
 
