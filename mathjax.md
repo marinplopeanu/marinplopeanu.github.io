@@ -65,6 +65,8 @@ $$a=b^c$$
 
 $$a=b^c$$
 
+<p> </p>
+
 # Ridicarea la putere (superscript)
 
 >Se foloseste meta-caracterul `LaTeX`: `^`
@@ -80,6 +82,8 @@ $$a=10^7$$
 **Cod TeX renderizat:**
 
 $$a=10^7$$
+
+<p> </p>
 
 # Inserarea indicilor (subscript)
 
@@ -97,6 +101,8 @@ $$a_i = b^c$$
 
 $$a_i = b^c$$
 
+<p> </p>
+
 # Gruparea elementelor din formule
 
 >Elementele din formule se grupeaza prin meta-caracterele `{` si `}`.
@@ -112,6 +118,8 @@ $$ 10^{10} $$
 **Cod TeX renderizat:**
 
 $$ 10^{10} $$
+
+<p> </p>
 
 # Literele grecesti
 
@@ -140,6 +148,7 @@ $$\Gamma$$
 
 $$\Gamma$$
 
+<p> </p>
 
 # Parantezele in 'TeX'
 
@@ -159,6 +168,8 @@ $$a = (b+c)^{3x} - [3+6x]$$
 
 $$a = (b+c)^{3x} - [3+6x]$$
 
+<p> </p>
+
 # Fractiile
 
 **Sintaxa TeX:**
@@ -177,6 +188,8 @@ $$ a = \frac{(a+bc)}{(d-c)} $$
 **Cod TeX renderizat**
 
 $$ a = \frac{(a+bc)}{(d-c)} $$
+
+<p> </p>
 
 # Semnele de 'multiplicare' si respectiv de 'diviziune'
 
@@ -200,6 +213,8 @@ $$ a = b \div c $$
 
 $$ a = b \div c $$
 
+<p> </p>
+
 # `Suma` de la `i=0` la `n`
 
 *Exemplu:*
@@ -209,6 +224,8 @@ $$ \sum_{i=0}^n i^2 = \frac{(a+b) \times (b+c)}{6} $$
 ```
 
 $$ \sum_{i=0}^n i^2 = \frac{(a+b) \times (b+c)}{6} $$
+
+<p> </p>
 
 # Integrale
 
