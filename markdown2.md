@@ -117,12 +117,12 @@ Acesta este un text evidentiat cu HTML.
 **Link imagine cu HTML:**
 
 ```html
-<img src=images/mp.jpg width="200px" border=10px align=right>
+<img src=images/mp.jpg width="200">
 ```
 
 **HTML renderizat:**
 
-<img src="images/mp.jpg" width="200px" border=10px>
+<img src="images/mp.jpg" width="200">
 
 **Linie orizontala Markdown:**
 
