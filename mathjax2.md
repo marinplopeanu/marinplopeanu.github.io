@@ -17,6 +17,8 @@
 
 ***
 
+
+
 # Scrierea matricelor `TeX` cu ajutorul `MathJax`
 
 **Cod TeX:**
