@@ -137,10 +137,10 @@ Acesta este un text evidentiat cu HTML.
 **Linie orizontala HTML:**
 
 ```html
-<hr size=2em>
+<hr style="height: 15px; background-color: black;">
 ```
 
-<hr size=2em>
+<hr style="height: 5px; background-color: green;">
 
 ## Taguri HTML
 
