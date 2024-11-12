@@ -78,6 +78,8 @@ a_{21} & a_{22} & a_{23} \\
 \end{bmatrix}
 $$
 
+<p> </p>
+
 # Scrierea sistemelor de ecuatii
 
 **Cod TeX:**
