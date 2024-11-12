@@ -61,7 +61,7 @@
 
 <br>
 
-<a href="mermaid"> Diagrame Mermaid </a>
+<a href="/diagrame/mermaid"> Diagrame Mermaid </a>
 <br>
 
 <!-- [Diagrame Mermaid](/diagrame/mermaid.md) -->
