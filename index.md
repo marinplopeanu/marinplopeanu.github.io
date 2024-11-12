@@ -34,7 +34,6 @@
 
 </details>
 
-
 <details> 
 
 <summary> Elemente de TeX si MathJax </summary>
