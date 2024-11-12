@@ -1,6 +1,6 @@
 ![Text descriptiv Imagine](https://metricop.com/cdn/shop/articles/trimble-total-station.jpg?v=1677673954&width=1100)
 
-**Cuprins**:
+# Cuprins:
 
 [Elemente avansate de Markdow](avansate.md)
 
