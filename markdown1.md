@@ -58,7 +58,6 @@ In acest capitol ...
 
 ```html
 <h1>Capitolul 1</h1>
-
 <p>In acest capitol ...</p>
 ```
 
@@ -92,7 +91,6 @@ In acest sub-capitol ...
 
 ```html
 <h2>Capitolul 1.1</h2>
-
 <p>In acest sub-capitol ...</p>
 ```
 
@@ -126,7 +124,6 @@ In aceasta sectiune ...
 
 ```html
 <h3>Sectiunea 1.1.1</h3>
-
 <p>In aceasta sectiune ...</p>
 ```
 
