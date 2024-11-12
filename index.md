@@ -4,9 +4,11 @@
 
 [Markdown 1: Crearea legaturilor Markdown](index.md)
 
-[Markdown 2: Elemente avansate de Markdown (demo 'md' page)](avansate.md)
+[Markdown 2: Formatarea textului cu Markdown](markdown2.md)
 
-[Markdown 3: Elemente de Markdown - completare](/markdown2.md)
+<!-- [Markdown 2: Elemente avansate de Markdown (demo 'md' page)](avansate.md) -->
+
+[Markdown 3: Elemente de Markdown - completare](/markdown3.md)
 
 [MathJax 1: Formule cu TeX si MathJax](mathjax.md)
 

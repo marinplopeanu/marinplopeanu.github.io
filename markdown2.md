@@ -1,191 +1,161 @@
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
 
-![Text descriptiv Imagine](https://metricop.com/cdn/shop/articles/trimble-total-station.jpg?v=1677673954&width=1100)
+![Total Station](https://metricop.com/cdn/shop/articles/trimble-total-station.jpg?v=1677673954&width=1100)
 
 [Homepage](index.md)
 
+# Formatarea textului
 
-# Elemente de Markdown - Partea a doua
+## Bold (ingrosat)
 
-
-## Inserarea codului de programare in Markdown si HTML
-
-### Cod 'in linie'
-
-**Cod in linie cu Markdown:**
+### Cod Markdown
 
 ```markdown
-Iata un fragment de cod scris pe aceeasi linie: `a = b**c`.
+Facultatea de **Geodezie**
 ```
 
-**Markdown renderizat:**
-
-Iata un fragment de cod scris pe aceeasi linie: `a = b**c`.
-
-**Cod in linie cu HTML:**
-
-```html
-<code> a=b**c </code>
-```
-
-**HTML renderizat:**
-
-<code> a=b**c </code>
-
-### Cod scris pe mai multe linii
-
-**Cod evidentiat cu Markdown:**
-````
-```python
-import pandas as pd
-import numpy as np
-
-a = 2
-b = 3
-```
-````
-
-**Markdown - renderizat:**
-
-```python
-import pandas as pd
-import numpy as np
-
-a = 2
-b = 3
-```
-
-**Cod evidentiat cu HTML:**
-
-```html
-<pre>
-import pandas as pd
-import numpy as np
-
-a = 2
-b = 3
-</pre>
-```
-**HTML - renderizat:**
-<pre>
-import pandas as pd
-import numpy as np
-
-a = 2
-b = 3
-</pre>
-
-## Inserarea elementelor evidentiate (quotes/blockquote)
-
-**Evidentiere Markdown:**
+Facultatea de **Geodezie**
 
 ```markdown
-> Acesta este un text evidentiat cu Markdown.
+Facultatea de __Geodezie__
 ```
 
-**Markdown - renderizat:**
+Facultatea de __Geodezie__
 
-> Acesta este un text evidentiat cu Markdown.
-
-Acesta este un text ne-evidentiat.
-
-**Evidentiere HTML:**
+### Cod HTML
 
 ```html
-<blockquote>
-Acesta este un text evidentiat cu HTML.
-</blockquote>
+Facultatea de <b>Geodezie</b>
 ```
 
-**HTML - renderizat:**
+Facultatea de <b>Geodezie</b>
 
-<blockquote>
-Acesta este un text evidentiat cu HTML.
-</blockquote>
+```html
+Facultatea de <strong>Geodezie</strong>
+```
 
-<p> </p>
+Facultatea de <strong>Geodezie</strong>
 
-## Avantajele HTML fata de Markdown (exemple)
+## Italic (inclinat)
 
-**Link imagine cu Markdown:**
+**Cod Markdown:**
 
 ```markdown
-![Foto](images/mp.jpg)
+Facultatea de *Geodezie*
 ```
 
-![Foto](images/mp.jpg)
-
-**Link imagine cu HTML:**
-
-```html
-<img src=images/mp.jpg width="200" border=10px>
-```
-
-**HTML renderizat:**
-
-<img src="images/mp.jpg" width="200" border=10px>
-
-**Linie orizontala Markdown:**
+Facultatea de *Geodezie*
 
 ```markdown
-***
+Facultatea de _Geodezie_
 ```
 
-***
+Facultatea de _Geodezie_
 
-**Linie orizontala HTML:**
+
+### Cod HTML
+
 
 ```html
-<hr size=2em>
+Facultatea de <i>Geodezie</i>
 ```
 
-<hr size=2em>
-
-## Taguri HTML
-
-**Tag HTML in pereche (cu continut), cu eticheta de deschidere si de inchidere:**
+Facultatea de <i>Geodezie</i>
 
 ```html
-<p>Acesta este un paragraf.</p>
+Facultatea de <em>Geodezie</em>
 ```
 
-**HTML renderizat**:
+Facultatea de <em>Geodezie</em>
 
-<p>Acesta este un paragraf.</p>
 
-**Tag HTML auto-inchis (fara continut)**
+## Bold + Italic (ingrosat + inclinat)
 
-```html
-<hr>
-etc.
-```
-
-**HTML renderizat**:
-
-<hr>
-
-## Echivalentul unui link Markdown in HTML
-
-**Link Markdown:**
+### Cod Markdown:
 
 ```markdown
-[Link Markdown catre Google](https://google.com)
+Facultatea de ***Geodezie***
 ```
-**Link Markdown renderizat:**
 
-[Link Markdown catre Google](https://google.com)
+Facultatea de ***Geodezie***
 
-**Link HTML:**
+```markdown
+Facultatea de ___Geodezie___
+```
+
+Facultatea de ___Geodezie___
+
+
+### Cod HTML:
 
 ```html
-<a href="https://google.com"> Link HTML catre Google </a>
+Facultatea de <i><b>Geodezie</b></i>
+```
+Facultatea de <i><b>Geodezie</b></i>
+
+```html
+Facultatea de <b><i>Geodezie</i></b>
+```
+Facultatea de <b><i>Geodezie</i></b>
+
+```html
+Facultatea de <em><b>Geodezie</b></em>
 ```
 
-**Link HTML renderizat:**
+Facultatea de <em><b>Geodezie</b></em>
 
-<a href="https://google.com"> Link HTML catre Google </a>
+```html
+Facultatea de <b><em>Geodezie</em></b>
+```
 
-***
+Facultatea de <b><em>Geodezie</em></b>
 
-Link [Homepage](index.md)
+```html
+Facultatea de <strong><em>Geodezie</em></strong>
+```
+
+Facultatea de <strong><em>Geodezie</em></strong>
+
+## Strikethrough (taiat)
+
+### Cod Markdown:
+
+```markdown
+Facultatea de Geodezie, specializarea MTC (~~Instalatii~~)
+```
+
+Facultatea de Geodezie, specializarea MTC (~~Instalatii~~)
+
+### Cod HTML:
+```html
+Facultatea de Geodezie, specializarea MTC (<del>Instalatii</del>)
+```
+
+Facultatea de Geodezie, specializarea MTC (<del>Instalatii</del>)
+
+## Text suprascris (superscript)
+
+### Cod Markdown:
+
+> Nu exista
+
+### Cod HTML:
+```html
+Facultatea de Geodezie, specializarea <sup>MTC</sup>
+```
+
+Facultatea de Geodezie, specializarea <sup>MTC</sup>
+
+## Text subscris (subscript)
+
+### Cod Markdown:
+
+> Nu exista
+
+### Cod HTML:
+```html
+Facultatea de Geodezie, specializarea <sub>MTC</sub>
+```
+
+Facultatea de Geodezie, specializarea <sub>MTC</sub>
