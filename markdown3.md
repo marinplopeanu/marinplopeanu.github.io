@@ -5,6 +5,20 @@
 
 [Homepage](index.md)
 
+***
+
+# Cuprins pagina:
+
+- [Inserarea codului de programare in Markdown si HTML](#inserarea-codului-de-programare-in-markdown-si-html)
+    - [Cod 'in linie'](#cod-in-linie)
+    - [Cod scris pe mai multe linii](#cod-scris-pe-mai-multe-linii)
+- [Inserarea elementelor evidentiate (quotes/blockquote)](#inserarea-elementelor-evidentiate-quotesblockquote)
+- [Avantajele HTML fata de Markdown (exemple)](#avantajele-html-fata-de-markdown-exemple)
+- [Taguri HTML](#taguri-html)
+- [Echivalentul unui link Markdown in HTML](#echivalentul-unui-link-markdown-in-html)
+
+***
+
 
 # Elemente de Markdown - Partea a doua
 
@@ -187,5 +201,7 @@ etc.
 
 ***
 
-Link [Homepage](index.md)
+[Up](#cuprins-pagina)
+
+Link [Homepage](index)
 
