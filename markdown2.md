@@ -12,7 +12,6 @@
 - [Bold](#bold-ingrosat)
 - [Italic](#italic-inclinat)
 - [Bold + Italic](#bold--italic-ingrosat--inclinat)
-- [Bold + Italic](#bold--italic-ingrosat--inclinat)
 - [Strikethrough](#strikethrough-taiat)
 - [Superscript](#text-suprascris-superscript)
 - [Subscript](#text-subscris-subscript)
