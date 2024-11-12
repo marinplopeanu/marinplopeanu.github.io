@@ -2,7 +2,7 @@
 
 # Harta site:
 
-[Markdown 1: Elemente introductive Markdown](index.md)
+[Markdown 1: Crearea legaturilor Markdown](index.md)
 
 [Markdown 2: Elemente avansate de Markdown (demo 'md' page)](avansate.md)
 
