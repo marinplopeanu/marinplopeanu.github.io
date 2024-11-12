@@ -12,8 +12,8 @@
     - [Posibilitati de scriere matrice](#posibilitati-de-scriere-matrice)
     - [Exemple](#alte-exemple)
 - [Scrierea sistemelor de ecuatii](#scrierea-sistemelor-de-ecuatii)
-- [Varianta 1](#varianta-1)
-- [Varianta 2](#varianta-1-1)
+    - [Varianta 1](#varianta-1)
+    - [Varianta 2](#varianta-1-1)
 
 ***
 
