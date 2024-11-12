@@ -28,7 +28,6 @@ Paragraf 1
 
 ```html
 <p>Paragraf 1</p>
-
 <p>Paragraf 2</p>
 ```
 ### HTML renderizat:
