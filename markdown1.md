@@ -8,6 +8,9 @@
 # Cuprins
 - [Capitole, subcapitole si sectiuni](#capitole-subcapitole-si-sectiuni)
     - [Sinteza](#sinteza)
+    - [Nivelul 1](#nivelul-1-capitole)
+    - [Nivelul 2](#nivelul-2-sub-capitole)
+    - [Nivelurile 3-6](#nivelul-3-6-subsubcapitole-si-sectiuni)
 - [Paragrafe](#paragrafe)
 - [Linii](#linii)
     - [Intreruperile de linii](#intreruperile-de-linie-line-break)
