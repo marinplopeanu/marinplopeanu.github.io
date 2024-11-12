@@ -36,6 +36,8 @@
 
 <details> 
 
+<br>
+
 <summary> Elemente de TeX si MathJax </summary>
 
 <br>
