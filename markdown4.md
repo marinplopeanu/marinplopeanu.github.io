@@ -5,6 +5,19 @@
 
 [Homepage](index.md)
 
+***
+
+# Cuprins pagina:
+
+- [Implementarea legaturilor catre alte fisiere](#implementarea-legaturilor-catre-alte-fisiere)
+- [Sintaxa unui link in Markdown](#sintaxa-unui-link-markdown)
+    - [Linkurile *clasice*](#linkurile-clasice)
+    - [Linkurile referentiate](#linkurile-referentiate)
+    - [Varianta prescurtata a linkurilor referentiate](#varianta-prescurtata-a-linkurilor-referentiate)
+- [Linkuri catre imagini (inserarea imaginilor)](#linkuri-catre-imagini-inserarea-imaginilor)
+
+***
+
 # Implementarea legaturilor (link-urilor) in Markdown
 
 ## Implementarea legaturilor catre alte fisiere
@@ -74,7 +87,7 @@ Iata un link [important] catre site-ul Google.
 
 ***
 
-### Linkuri catre imagini (inserarea imaginilor)
+## Linkuri catre imagini (inserarea imaginilor)
 
 **Markdown (sintaxa):**
 
@@ -85,3 +98,9 @@ Iata un link [important] catre site-ul Google.
 **Markdown renderizat:**
 
 ![Totalstation](https://metricop.com/cdn/shop/articles/trimble-total-station.jpg?v=1677673954&width=1100)
+
+***
+
+[Up](#cuprins-pagina)
+
+[Homepage][index]
