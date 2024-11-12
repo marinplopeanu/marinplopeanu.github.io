@@ -4,6 +4,19 @@
 
 [Homepage](index.md)
 
+***
+
+# Cuprins pagina:
+
+- [Scrierea matricelor `TeX` cu ajutorul `MathJax`](#scrierea-matricelor-tex-cu-ajutorul-mathjax)
+    - [Posibilitati de scriere matrice](#posibilitati-de-scriere-matrice)
+    - [Exemple](#alte-exemple)
+- [Scrierea sistemelor de ecuatii](#scrierea-sistemelor-de-ecuatii)
+- [Varianta 1](#varianta-1)
+- [Varianta 2](#varianta-1-1)
+
+***
+
 # Scrierea matricelor `TeX` cu ajutorul `MathJax`
 
 **Cod TeX:**
@@ -27,14 +40,14 @@ a_{21} & a_{22} & a_{23} \\
 \end{Vmatrix}
 $$
 
-**Posibilitati:**
+## Posibilitati de scriere matrice:
 - `{pmatrix}`
 - `{bmatrix}`
 - `{Bmatrix}`
 - `{vmatrix}`
 - `{Vmatrix}`
 
-*Alte exemple:*
+## Alte exemple:
 
 **Cod TeX:**
 
@@ -80,9 +93,15 @@ $$
 
 <p> </p>
 
+[Up](#cuprins-pagina)
+
+***
+
 # Scrierea sistemelor de ecuatii
 
 **Cod TeX:**
+
+## Varianta 1
 
 ```LaTeX
 $$
@@ -100,6 +119,8 @@ f(x) &= ax^2 \\
 g(x) &= ax^2 + bx + c
 \end{align}
 $$
+
+## Varianta 2
 
 **Cod TeX:**
 
@@ -119,5 +140,11 @@ f(x) &= ax^2 \\
 g(x) &= ax^2 + bx + c
 \end{cases}
 $$
+
+***
+
+[Up](#cuprins-pagina)
+
+[Homepage](index)
 
 
