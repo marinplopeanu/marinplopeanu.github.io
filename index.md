@@ -1,10 +1,12 @@
 ![Total Station Demo](https://metricop.com/cdn/shop/articles/trimble-total-station.jpg?v=1677673954&width=1100)
 
-# Cuprins:
+# Harta site:
 
-[Elemente avansate de Markdown (demo 'md' page)](avansate.md)
+[Markdown 1: Elemente introductive Markdown](index.md)
 
-[Markdown 2: Completare Markdown](/markdown2.md)
+[Markdown 2: Elemente avansate de Markdown (demo 'md' page)](avansate.md)
+
+[Markdown 3: Elemente de Markdown - completare](/markdown2.md)
 
 [MathJax 1: Formule cu TeX si MathJax](mathjax.md)
 
