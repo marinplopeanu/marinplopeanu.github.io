@@ -104,6 +104,8 @@ Acesta este un text evidentiat cu HTML.
 Acesta este un text evidentiat cu HTML.
 </blockquote>
 
+<p> </p>
+
 ## Avantajele HTML fata de Markdown (exemple)
 
 **Link imagine cu Markdown:**
