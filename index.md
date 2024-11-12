@@ -10,6 +10,8 @@
 
 [Markdown 1: Capitole, subcapitole, sectiuni si paragrafe](markdown1.md)
 
+<a href=markdown1.md>Markdown 1: Capitole, subcapitole, sectiuni si paragrafe</a>
+
 [Markdown 2: Formatarea textului cu Markdown](markdown2.md)
 
 <!-- [Markdown 2: Elemente avansate de Markdown (demo 'md' page)](avansate.md) -->
