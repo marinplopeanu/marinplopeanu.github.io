@@ -10,6 +10,8 @@
 
 [Diagrame Mermaid](/diagrame/mermaid.md)
 
+[Completare Markdown](/markdown2.md)
+
 ***
 
 # Implementarea relatiilor in Markdown
