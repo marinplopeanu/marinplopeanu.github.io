@@ -5,15 +5,34 @@
 
 [Homepage](/index.html)
 
+***
+
+# Cuprins pagina:
+
+- [Linkuri Mermaid](#linkuri-mermaid)
+- [Diagrame tratate la curs](#diagrame-tratate-la-curs)
+
+***
+
 # Diagrame Mermaid
+
+## Linkuri Mermaid
 
 Vezi [Mermaid Live Demo](https://mermaid.live/)
 
 Vezi [Mermaid Live Docu](https://mermaid.js.org/intro/getting-started.html)
 
+## Diagrame tratate la curs
+
 **Diagrame tratate:**
 - `flowchart TD`
 - `timeline`
-- `mindmap`
+- `mindmap` (nu a fost parcursa la curs)
 - `gantt` (nu a fost parcursa la curs)
 - `pie` (nu a fost parcursa la curs)
+
+***
+
+[Up](#cuprins-pagina)
+
+[Homepage](index)
