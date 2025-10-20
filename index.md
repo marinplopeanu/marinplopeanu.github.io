@@ -1,4 +1,6 @@
-![Total Station Demo](https://metricop.com/cdn/shop/articles/trimble-total-station.jpg?v=1677673954&width=1100)
+![Total Station Demo]([https://metricop.com/cdn/shop/articles/trimble-total-station.jpg](https://www.allenprecision.com/web/image/product.product/2632/image_1024/)?v=1677673954&width=1100)
+
+
 
 # Harta site:
 
